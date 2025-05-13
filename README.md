@@ -6,12 +6,13 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🔭 **Focused On:** Building skills to become a proficient Data Scientist.
 - 💬 **Ask Me About:** Python, Machine Learning, and related technologies.
 - 📫 **Contact Me:** [supriyakar0509@gmail.com](mailto:supriyakar0509@gmail.com)
+- 🔗 **Connect With Me:** [LinkedIn](https://www.linkedin.com/in/supriya-kar-a746b1255)
 
 ---
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:** Python
-- **Machine Learning Libraries:** Scikit-learn, TensorFlow, PyTorch
+- **Machine Learning Libraries:** Scikit-learn, TensorFlow
 - **Data Science Tools:** Pandas, NumPy, Matplotlib, Jupyter
 - **Version Control:** Git, GitHub
 
@@ -24,3 +25,4 @@ Welcome to my GitHub profile! Here's a little about me:
 
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. 😊
+
